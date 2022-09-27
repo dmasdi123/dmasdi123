@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Febrian Dimas Winaputra
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Laravel 9
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me febriandimas634@gmail.com
 
